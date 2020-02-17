@@ -1,5 +1,6 @@
+
 .DS_Store
-.gradle
+../../../../.gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 /out/
@@ -19,3 +20,6 @@ bin/
 *.iws
 *.iml
 *.ipr
+
+#### gradle
+.gradle
